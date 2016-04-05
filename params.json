@@ -1,0 +1,6 @@
+{
+  "name": "Dash Building Entry Alert Button",
+  "tagline": "Listens for Dash presses and enables responding with custom actions, such as posting your team's Slack channel. ",
+  "body": "### About Dash Building Entry Alert Button\r\nDash Building Entry Alert Button notifies your team when the building is open. When Amazon Dash Button is pressed, it automatically posts to your team's Slack channel. \r\n\r\nHere in Make School, instructors push the button in the morning. Then, students can check whether the building is open before they go out.\r\n\r\n### Demo\r\n[Demo video](https://youtu.be/czpxAmm8_ws)\r\n\r\n![AmazonDashButton](https://github.com/MakeSchool/dash-listener/blob/master/AmazonDashButton.JPG?raw=true)\r\nThe button near the alarm system\r\n\r\n![Slack](https://github.com/MakeSchool/dash-listener/blob/master/SlackPost.png?raw=true)\r\nSlack channel after pushing the button",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
